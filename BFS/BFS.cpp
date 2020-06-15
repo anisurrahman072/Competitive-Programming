@@ -35,6 +35,5 @@ int main()
             }
         }
         cout<<an<<" ";
-
     }
 }
